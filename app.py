@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 from Bengaluru_backend import rag_chain
 from bengaluru_references import REFERENCE_DB
