@@ -1,5 +1,3 @@
-%%writefile bengaluru_guard.py
-
 def bengaluru_guard(question: str):
     keywords = [
         "bengaluru", "bangalore", "blr", "silicon valley of india","tourist places"
