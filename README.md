@@ -32,7 +32,7 @@ streamlit run app.py
 
 
 ## 🌐 Live Demo
-https://bengaluru-rag-ai.streamlit.app
+https://ckqddukklqdf5ivfz5izwf.streamlit.app/
 
 
 ## 📁 Project Structure
