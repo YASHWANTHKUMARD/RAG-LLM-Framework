@@ -1,4 +1,3 @@
-%%writefile Bengaluru_backend.py
 from langchain_community.document_loaders import WikipediaLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
