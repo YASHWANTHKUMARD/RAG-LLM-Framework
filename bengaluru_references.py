@@ -1,4 +1,3 @@
-%%writefile bengaluru_references.py
 REFERENCE_DB = {
 
     "history": {
